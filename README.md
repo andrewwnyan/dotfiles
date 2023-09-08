@@ -1,2 +1,4 @@
 # dotfiles
-simple i3 + rofi 
+simple i3 + rofi desktop
+
+# screenshots yeee
